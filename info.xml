@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fomod>
+    <Name>Idrinth Thalui</Name>
+    <Author>Björn 'Idrinth' Büttner</Author>
+    <Version MachineVersion="1.0.0">1.0.0</Version>
+    <Description>This follower, trainer, questgiver and merchant is a male Altmer, focussing on Restoration magic and twohanded, elven swords. Comes with custom dialogue and patrols the world!</Description>
+    <Website>https://idrinth-thalui.idrinth.de</Website>
+</fomod>
